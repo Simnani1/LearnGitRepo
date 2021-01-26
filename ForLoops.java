@@ -1,9 +1,9 @@
 class Git{
-public static void main(String[] args) {
-a=10;
-b=20;
-	for(a>b)
+	public static void main(String[] args) {
+		
+	
 	System.out.println("Welcome to git");
+
 System.out.println("hii");
 }
 }
